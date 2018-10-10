@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.20",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "SubsystemConfigurator",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5eb6d67c19e24abb9e9cb8b284ac9493"
+		}
+	]
 }

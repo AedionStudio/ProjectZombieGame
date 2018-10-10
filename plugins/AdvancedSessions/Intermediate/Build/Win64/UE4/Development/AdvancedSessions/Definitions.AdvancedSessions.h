@@ -37,15 +37,15 @@
 #define PLATFORM_WINDOWS 1
 #define DEPTH_32_BIT_CONVERSION 0
 #define PROJECT_COPYRIGHT_STRING Fill out your copyright notice in the Description page of Project Settings.
-#define PROJECT_PRODUCT_NAME Virtual Reality BP Game Template
-#define PROJECT_PRODUCT_IDENTIFIER VRExpPluginExample
+#define PROJECT_PRODUCT_NAME TP_DefaultPlayer
+#define PROJECT_PRODUCT_IDENTIFIER ZombieGame
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
-#define UE_ENGINE_DIRECTORY "../../../../../../../Program Files/Epic Games/UE_4.20/Engine/"
-#define ORIGINAL_FILE_NAME "VRExpPluginExample.exe"
+#define UE_ENGINE_DIRECTORY "D:/Program Files/Epic Games/UE_4.20/Engine/"
+#define ORIGINAL_FILE_NAME "ZombieGame.exe"
 #define UE_IS_ENGINE_MODULE 0
 #define UE_BUILD_DEVELOPMENT_WITH_DEBUGGAME 0
-#define UE_PROJECT_NAME VRExpPluginExample
+#define UE_PROJECT_NAME ZombieGame
 #define WITH_ADVANCED_SESSIONS 1
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 
 #define IMPLEMENT_SIGNING_KEY_REGISTRATION() 
